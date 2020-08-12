@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a freshman student studying IT at the Internation Burch University in Sarajevo. Throughout my primary and secondary education I took part in competitive programming and represented my country in international competitions. I like video games, music, robotics and cycling. Currently freelancing as a Front-End web developer.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Feel free to contact me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[muhamed.hamzic@stu.ibu.edu.ba](mailto:muhamed.hamzic@stu.ibu.edu.ba)
